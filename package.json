@@ -8,7 +8,8 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "lerna run start --parallel"
+    "start": "lerna run start --parallel",
+    "install": "lerna exec yarn"
   },
   "devDependencies": {
     "lerna": "^3.17.0"
