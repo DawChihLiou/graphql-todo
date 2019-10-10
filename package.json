@@ -1,0 +1,16 @@
+{
+  "name": "graphql-todo",
+  "version": "0.0.0",
+  "description": "Todo List with GraphQL",
+  "main": "index.js",
+  "repository": "git@github.com:DawChihLiou/graphql-todo.git",
+  "author": "Daw-Chih Liou <dawochih.liou@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "lerna run start --parallel"
+  },
+  "devDependencies": {
+    "lerna": "^3.17.0"
+  }
+}
